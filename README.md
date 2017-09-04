@@ -12,12 +12,20 @@ DOI : <http://dx.doi.org/xxxxxxx>
 
 This repository contains materials to reproduce .... to use ............ The repository contains all data, code, and text associated with the publication.
 
-The `Rmd` files in the `docs/vignettes/` directory contain - details of how all the analyses reported in the paper were conducted - instructions on how to rerun the analysis to reproduce the same results. - R code to recreate the figures included in the manuscript
+The `Rmd` files in the `docs/vignettes/` directory contain
+
+-   details of how all the analyses reported in the paper were conducted
+-   instructions on how to rerun the analysis to reproduce the same results.
+-   R code to recreate the figures included in the manuscript
 
 The `data/` directory contains all the raw data, clean & tidy data and the final data
 
-The `script/` directory contains: - the manuscript as submitted (in MS Word format) and it's Rmd source file - all the data files (in CSV format, in the `data/` directory)
-- supplementary information source files (in R markdown format) and executed versions - all the figures that are included in the paper (in the `figures/` directory)
+The `script/` directory contains:
+
+-   the manuscript as submitted (in MS Word format) and it's Rmd source file
+-   all the data files (in CSV format, in the `data/` directory)
+-   supplementary information source files (in R markdown format) and executed versions
+-   all the figures that are included in the paper (in the `figures/` directory)
 
 ### Reproducibility
 
@@ -27,7 +35,11 @@ This repository is organized similarly to an R package. The R package structure 
 
 I used [RStudio](http://www.rstudio.com/products/rstudio/) on Ubuntu 16.04 and Windows 7. The package has a number of dependencies on other R packages.
 
-These are listed at - packrat - checkpoint - docker
+These are listed at
+
+-   packrat
+-   checkpoint
+-   docker
 
 The packrat directory contains the source code for all the packages the project we depend on. If all works well, these will be installed on your computer when you open `PROJECTNAME.Rproj` in RStudio.
 
@@ -37,7 +49,11 @@ The Docker image includes all the necessary software, code and data to run our a
 
 ### Licenses
 
-Some licences - [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/) - [MIT](http://opensource.org/licenses/MIT) year: 2017, copyright holder: Gionata Ghiggi - [CC-0](http://creativecommons.org/publicdomain/zero/1.0/) attribution requested in reuse
+Some licences
+
+-   [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/)
+-   [MIT](http://opensource.org/licenses/MIT) year: 2017, copyright holder: Gionata Ghiggi
+-   [CC-0](http://creativecommons.org/publicdomain/zero/1.0/) attribution requested in reuse
 
 ### Links and Acknowledgments
 

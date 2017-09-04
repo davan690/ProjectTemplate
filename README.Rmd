@@ -31,6 +31,7 @@ This repository contains materials to reproduce .... to use  ............
 The repository contains all data, code, and text associated with the publication. 
 
 The `Rmd` files in the `docs/vignettes/` directory contain 
+
 - details of how all the analyses reported in the paper were conducted 
 - instructions on how to rerun the analysis to reproduce the same results. 
 - R code to recreate the figures included in the manuscript
@@ -38,6 +39,7 @@ The `Rmd` files in the `docs/vignettes/` directory contain
 The `data/` directory contains all the raw data, clean & tidy data and the final data  
 
 The `script/` directory contains:
+
 - the manuscript as submitted (in MS Word format) and it's Rmd source file
 - all the data files (in CSV format, in the `data/` directory)    
 - supplementary information source files (in R markdown format) and executed versions
@@ -54,6 +56,7 @@ I used [RStudio](http://www.rstudio.com/products/rstudio/) on Ubuntu 16.04 and W
 The package has a number of dependencies on other R packages. 
 
 These are listed at 
+
 - packrat
 - checkpoint 
 - docker
@@ -68,6 +71,7 @@ The Docker image includes all the necessary software, code and data to run our a
 ### Licenses
 
 Some licences
+
 - [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/)
 - [MIT](http://opensource.org/licenses/MIT) year: `r format(Sys.Date(), "%Y")`, copyright holder: Gionata Ghiggi
 - [CC-0](http://creativecommons.org/publicdomain/zero/1.0/) attribution requested in reuse
