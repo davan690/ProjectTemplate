@@ -19,34 +19,16 @@ knitr::opts_chunk$set(
 
 [![Licence](https://img.shields.io/github/license/mashape/apistatus.svg)](http://choosealicense.com/licenses/mit/) 
 
-[![Travis-CI Build Status](https://travis-ci.org/benmarwick/researchcompendium.png?branch=master)](https://travis-ci.org/benmarwick/researchcompendium) 
-[![Travis-CI Build Status](https://travis-ci.org/Pakillo/template.svg?branch=master)](https://travis-ci.org/Pakillo/template)
-
-[![Circle CI](https://circleci.com/gh/benmarwick/researchcompendium.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/benmarwick/researchcompendium)
-
-[![codecov.io](https://codecov.io/github/benmarwick/researchcompendium/coverage.svg?branch=master)](https://codecov.io/github/benmarwick/researchcompendium?branch=master) 
-
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-ETHZ-green.svg)](https://www.researchgate.net/profile/Gionata_Ghiggi) 
 
-## Research Project 
+## Research Project  
 
-### DOI: 
- 
-http://dx.doi.org/xxxxxxx
-
-### Published in: 
-
-Ghiggi G., .... 
-
-The files at the URL above will generate the results as found in the publication.  
-
-### Authors  of this repository:
-
-Gionata Ghiggi (gionata.ghiggi@gmail.com)
+Published in:  Ghiggi G., .... 
+DOI : http://dx.doi.org/xxxxxxx
 
 ### Overview of contents
 
-This repository contains the scripts used for ............
+This repository contains materials to reproduce .... to use  ............
 The repository contains all data, code, and text associated with the publication. 
 
 The `Rmd` files in the `docs/vignettes/` directory contain 
@@ -111,6 +93,3 @@ Gionata Ghiggi
 IACETHZ, Zürich
 gionata.ghiggi@gmail.com 
  
-
-
-
