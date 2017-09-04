@@ -96,7 +96,7 @@ Project Template is inspired from:
 * ROpenSci [Reproducibility Guide](http://ropensci.github.io/reproducibility-guide/)
 * Hadley Wickham [R Package Book](http://r-pkgs.had.co.nz/)
 * Yihui Xie [Knitr package](http://yihui.name/knitr/)
-* [Rstudio](https://www.rstudio.com/)
+* [RStudio](https://www.rstudio.com/)
 
 ### Contact
 
