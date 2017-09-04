@@ -57,17 +57,17 @@ Some licences
 
 ### Links and Acknowledgments
 
-Project Template is inspired from:
+ProjectTemplate is based on:
 
 -   Carl Boettiger and his [template package](https://github.com/cboettig/template)
 -   Jeff Hollister and his [manuscriptPackage](https://github.com/jhollist/manuscriptPackage)
 -   Francisco Rodriguez-Sanchez's [template](https://github.com/Pakillo/template)
 -   Ben Mawerick [template](https://github.com/benmarwick/researchcompendium)
 -   Christopher Gandrud [Reproducible Research with R & RStudio, 2nd Edition](https://github.com/christophergandrud/Rep-Res-Book)
--   [Reproducible Science Curriculum](https://github.com/Reproducible-Science-Curriculum/rr-init)
--   ROpenSci [Reproducibility Guide](http://ropensci.github.io/reproducibility-guide/)
 -   Hadley Wickham [R Package Book](http://r-pkgs.had.co.nz/)
 -   Yihui Xie [Knitr package](http://yihui.name/knitr/)
+-   ROpenSci [Reproducibility Guide](http://ropensci.github.io/reproducibility-guide/)
+-   [Reproducible Science Curriculum](https://github.com/Reproducible-Science-Curriculum/rr-init)
 -   [RStudio](https://www.rstudio.com/)
 
 ### Contact
