@@ -12,18 +12,16 @@ knitr::opts_chunk$set(
   comment = "#>",
   fig.path = "README-"
 )
+
 ```
 [![Last-changedate](https://img.shields.io/badge/last%20change-`r gsub('-', '--', Sys.Date())`-brightgreen.svg)](https://github.com/benmarwick/researchcompendium/commits/master) 
-
 [![minimal R version](https://img.shields.io/badge/R%3E%3D-`r as.character(getRversion())`-brightgreen.svg)](https://cran.r-project.org/)
-
 [![Licence](https://img.shields.io/github/license/mashape/apistatus.svg)](http://choosealicense.com/licenses/mit/) 
-
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-ETHZ-green.svg)](https://www.researchgate.net/profile/Gionata_Ghiggi) 
 
 ## Research Project  
 
-Published in:  Ghiggi G., .... 
+Published in:  Ghiggi G.,  
 
 DOI : http://dx.doi.org/xxxxxxx
 
@@ -77,6 +75,7 @@ Some licences
 ### Links and Acknowledgments
 
 Project Template is inspired from:
+
 * Carl Boettiger and his [template package](https://github.com/cboettig/template)
 * Jeff Hollister and his [manuscriptPackage](https://github.com/jhollist/manuscriptPackage)
 * Francisco Rodriguez-Sanchez's [template](https://github.com/Pakillo/template)
