@@ -1,0 +1,36 @@
+ ---
+output:
+  md_document:
+    variant: markdown_github
+---
+
+[![Travis-CI Build Status](https://travis-ci.org/benmarwick/researchcompendium.png?branch=master)](https://travis-ci.org/benmarwick/researchcompendium) 
+[![Travis-CI Build Status](https://travis-ci.org/Pakillo/template.svg?branch=master)](https://travis-ci.org/Pakillo/template)
+
+[![Circle CI](https://circleci.com/gh/benmarwick/researchcompendium.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/benmarwick/researchcompendium)
+
+[![codecov.io](https://codecov.io/github/benmarwick/researchcompendium/coverage.svg?branch=master)](https://codecov.io/github/benmarwick/researchcompendium?branch=master) 
+
+### TRAVIS CI 
+
+### Circle CI
+
+### Codecov
+
+https://github.com/codecov/example-r
+
+### The Docker image 
+
+A Docker image is a lightweight GNU/Linux virtual computer that can be run as a piece of software on Windows and OSX (and other Linux systems). To capture the complete computational environment used for this project we have a Dockerfile that specifies how to make the Docker image that we developed this project in. The Docker image includes all of the software dependencies needed to run the code in this project, as well as the R package and other compendium files. To launch the Docker image for this project, first, [install Docker](https://docs.docker.com/installation/) on your computer. At the Docker prompt, enter:
+
+    docker run -dp 8787:8787 benmarwick/researchcompendium
+
+This will start a server instance of RStudio. Then open your web browser at localhost:8787 or or run `docker-machine ip default` in the shell to find the correct IP address, and log in with rstudio/rstudio.
+
+Once logged in, use the Files pane (bottom right) to navigate to `/` (the root directory), then open the folder for this project, and open the `.Rproj` file for this project. Once that's open, you'll see the `analysis/paper` directory in the Files pane where you can find the R markdown document, and knit them to produce the results in the paper. More information about using RStudio in Docker is avaiable at the [Rocker](https://github.com/rocker-org) [wiki](https://github.com/rocker-org/rocker/wiki/Using-the-RStudio-image) pages.
+ 
+We developed and tested the package on this Docker container, so this is the only platform that We're confident it works on, and so recommend to anyone wanting to use this package to generate the vignette, etc. 
+
+rocker is a project that provides Docker containers to run R in a lightweight virtual environment.
+The package harbor provides functions for controlling docker containers on local and remote hosts
+The dockertest package contains functions for generating Dockerfiles from R packages and other R projects, and building Docker containers that contains all the package dependencies.
