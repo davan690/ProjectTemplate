@@ -33,9 +33,9 @@ This repository is organized similarly to an R package. The R package structure 
 
 ### Package dependencies
 
-I used [RStudio](http://www.rstudio.com/products/rstudio/) on Ubuntu 16.04 and Windows 7. The package has a number of dependencies on other R packages.
+[RStudio](http://www.rstudio.com/products/rstudio/) has been used on Ubuntu 16.04 and Windows 7. The package has a number of dependencies on other R packages.
 
-These are listed at
+These packages are listed at
 
 -   packrat
 -   checkpoint
@@ -48,8 +48,6 @@ The checkpoint (TODO)
 The Docker image includes all the necessary software, code and data to run our analysis. The Docker image may give a quicker entry point to the project, and is more self-contained, so might save some fiddling with installing things.
 
 ### Licenses
-
-Some licences
 
 -   [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/)
 -   [MIT](http://opensource.org/licenses/MIT) year: 2017, copyright holder: Gionata Ghiggi
@@ -72,4 +70,8 @@ ProjectTemplate is based on:
 
 ### Contact
 
-Gionata Ghiggi IACETHZ, Zurich <gionata.ghiggi@gmail.com>
+Gionata Ghiggi
+
+IACETHZ, Zurich
+
+<gionata.ghiggi@gmail.com>
