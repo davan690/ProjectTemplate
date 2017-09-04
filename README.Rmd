@@ -91,6 +91,6 @@ Project Template is inspired from:
 ### Contact
 
 Gionata Ghiggi
-IACETHZ, Zürich
+IACETHZ, Zurich
 gionata.ghiggi@gmail.com 
  
