@@ -89,17 +89,14 @@ Some licences
 Project Template is inspired from:
 * Carl Boettiger and his [template package](https://github.com/cboettig/template)
 * Jeff Hollister and his [manuscriptPackage](https://github.com/jhollist/manuscriptPackage)
-* Robert Flight: http://rmflight.github.io/posts/2014/07/analyses_as_packages.html
-
-
-* Hadley Wickham [R Package]: http://r-pkgs.had.co.nz/
-* Yihui Xie [Knitr]: http://yihui.name/knitr/
-* [Rstudio] (https://www.rstudio.com/)
-* [Reproducible Research with R & RStudio, 2nd Edition, Christopher Gandrud] (http://christophergandrud.github.io/RepResR-RStudio/)
-* https://github.com/ropensci/rrrpkg (https://github.com/christophergandrud/Rep-Res-Book)
+* Francisco Rodriguez-Sanchez's [template](https://github.com/Pakillo/template)
+* Ben Mawerick [template](https://github.com/benmarwick/researchcompendium)
+* [Reproducible Research with R & RStudio, 2nd Edition, Christopher Gandrud] (https://github.com/christophergandrud/Rep-Res-Book)
 * [Reproducible-Science-Curriculum](https://github.com/Reproducible-Science-Curriculum/rr-init)
 * ROpenSci [Reproducibility Guide](http://ropensci.github.io/reproducibility-guide/)
-Pakito 
+* Hadley Wickham [R Package Book]: http://r-pkgs.had.co.nz/
+* Yihui Xie [Knitr package]: http://yihui.name/knitr/
+* [Rstudio] (https://www.rstudio.com/)
 
 ### Contact
 
