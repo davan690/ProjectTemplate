@@ -24,6 +24,7 @@ knitr::opts_chunk$set(
 ## Research Project  
 
 Published in:  Ghiggi G., .... 
+
 DOI : http://dx.doi.org/xxxxxxx
 
 ### Overview of contents
